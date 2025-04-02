@@ -1,5 +1,5 @@
 steps:
   - label: ":wave: Say Hello"
-    command: "echo 'Hello, Alice!'"
+    command: "echo 'Hello, Alic!'"
 
 
